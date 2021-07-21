@@ -1,10 +1,10 @@
 # Naukri
-I had many questions about the data science field, like 
-  what are the skills we need to brush upon? 
-  what are the different role's in the data science field?
-  what are the some companies that are hiring the most?
-  what are the education requirements needed?
-  which location has the highest job openings?
+I had many questions about the data science field, like                                                                                                                           
+  what are the skills we need to brush upon?                                                                                                                                     
+  what are the different role's in the data science field?                                                                                                                       
+  what are the some companies that are hiring the most?                                                                                                                           
+  what are the education requirements needed?                                                                                                                                     
+  which location has the highest job openings?                                                                                                                                   
   
   Instead of going through the internet for finding answers, I started to scrape naukri.com to get my answers using Beautifulsoup and Selenium.
   
