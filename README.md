@@ -41,9 +41,8 @@ I scraped 780 data science job listings from naukri.com and stored it in a csv. 
     The dataframe has been cleaned and arranged the data accordingly but what is the meaning of having a data in columns and rows,I don't have time to go throught the entire 780     rows to find the answers i need So i decided to create a dashboard to visualize it clearly using Tableau
     
     
-# The Dashboard's Link has beed given below, Go and find your answers.
+### The Dashboard's Link has beed given below, Go and find your answers.
 
-shorturl.at/akuCQ    
-    
+https://public.tableau.com/views/NaukriDataScienceJobAnalysis/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link    
     
     
