@@ -1,6 +1,6 @@
 # Naukri
 I had many questions about the data science field, like                                                                                                                           
-  what are the skills we need to brush upon?                                                                                                                                     
+  what are the skills we need to gain?                                                                                                                                     
   what are the different role's in the data science field?                                                                                                                       
   what are the some companies that are hiring the most?                                                                                                                           
   what are the education requirements needed?                                                                                                                                     
