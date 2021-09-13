@@ -43,6 +43,6 @@ I scraped 780 data science job listings from naukri.com and stored it in a csv. 
     
 ### The Dashboard's Link has beed given below, Go and find your answers.
 
-https://public.tableau.com/views/NaukriDataScienceJobAnalysis/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link    
+https://tabsoft.co/2Xik34t
     
     
